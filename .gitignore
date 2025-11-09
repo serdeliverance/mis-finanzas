@@ -37,3 +37,5 @@ Thumbs.db
 # Test binary
 main.test
 
+# Compiled files dir
+/bin
